@@ -1,6 +1,6 @@
 # Hotel_Booking_Cancellation.ipynb
 
-# Hotel Booking Cancellation Prediction
+
 
 ## 📘 Project Description
 
